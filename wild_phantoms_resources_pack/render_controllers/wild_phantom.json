@@ -1,0 +1,19 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.phantom": {
+            "arrays": {
+                "textures": {
+                    "Array.skins": [
+                        "Texture.wild_phantom_0",
+                        "Texture.wild_phantom_1",
+                        "Texture.wild_phantom_2"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [ { "*": "Material.default" } ],
+            "textures": [ "Array.skins[query.variant]" ]
+        }
+    }
+}

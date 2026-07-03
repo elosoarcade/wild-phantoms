@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Wild Phantoms (R)",
+		"description": "Add Wild Phantoms to Bedrock by El Oso Arcade",
+		"uuid": "8dc02cc7-9845-4a07-b1b2-f7fb996ecdaf",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Wild Phantoms MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/wild-phantoms"
+	},
+	"modules": [
+		{
+			"description": "Wild Phantoms",
+			"type": "resources",
+			"uuid": "ae8db5f8-1555-bed3-24ff-a66106176faa",
+			"version": [1, 0, 0]
+		}
+	]
+}
