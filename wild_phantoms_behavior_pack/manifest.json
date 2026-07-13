@@ -4,7 +4,7 @@
 		"name": "Wild Phantoms (B)",
 		"description": "Add Wild Phantoms to Bedrock by El Oso Arcade",
 		"uuid": "14281046-466b-bb39-6d74-bb18d0c51786",
-		"version": [1, 0, 0],
+		"version": [1, 1, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -16,7 +16,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 0, 0],
+			"version": [1, 1, 0],
 			"uuid": "5a06462c-c70c-1a53-4532-9bb938d7f589",
 			"type": "data"
 		}
@@ -24,7 +24,7 @@
 	"dependencies": [
 		{
 			"uuid": "8dc02cc7-9845-4a07-b1b2-f7fb996ecdaf",
-			"version": [1, 0, 0]
+			"version": [1, 1, 0]
 		}
 	]
 }

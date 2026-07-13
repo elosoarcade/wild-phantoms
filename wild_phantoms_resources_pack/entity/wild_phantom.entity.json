@@ -10,7 +10,8 @@
             "textures": {
                 "wild_phantom_0": "textures/entity/wild_phantom_0",
                 "wild_phantom_1": "textures/entity/wild_phantom_1",
-                "wild_phantom_2": "textures/entity/wild_phantom_2"
+                "wild_phantom_2": "textures/entity/wild_phantom_2",
+                "wild_phantom_3": "textures/entity/wild_phantom_3"                
             },
 			"geometry": {
 				"default": "geometry.wild_phantom"
